@@ -5,7 +5,7 @@ globales_t globalvar = {NULL, NULL, NULL};
 /**
  * main - entry point for the CLI program
  * @argc: count of arguments passed to the program
- * @argv: pointer to an array of char pointers to arguments
+ * @argv: pointer to an array of char pointers to arguments.
  * Return: EXIT_SUCCESS or EXIT_FAILURE
  */
 

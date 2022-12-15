@@ -67,7 +67,7 @@ At the end of this project, We were able to solve these questions:
 
 ### Try It On Your Machine computer:	
 ```bash
-git clone https://github.com/edward0rtiz/holbertonschool-low_level_programming.git
+git clone https://github.com/lijsamuael/monty.git
 cd monty
 gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 USAGE

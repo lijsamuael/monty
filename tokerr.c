@@ -15,6 +15,7 @@ unsigned int array_len(void)
 /**
  * tokerr - makes the last element of instructions as error code.
  * @error_status: type int where the error is saved as srt.
+ * Return: void
  */
 void tokerr(int error_status)
 {

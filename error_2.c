@@ -23,7 +23,6 @@ void pint_e(unsigned int line_number)
 	free_globalvars();
 	exit(EXIT_FAILURE);
 }
-
 /**
  * op_e - math func error messagess.
  * @line_number: line number of the instruction.

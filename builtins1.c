@@ -68,7 +68,6 @@ void pall(stack_t **stack, unsigned int line_number)
 	printf("%d\n", temp->n);
 }
 
-
 /**
  * pint - Print the stack
  * @stack: head of linkedlist

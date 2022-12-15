@@ -4,7 +4,7 @@
  * create_node_stackfirst - create a node stack.
  * @stack: A pointer to top and bottom stack.
  * @n: the value
- * Return: the node
+ * Return:node
  */
 stack_t *create_node_stackfirst(stack_t **stack, int n)
 {

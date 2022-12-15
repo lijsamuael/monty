@@ -1,5 +1,5 @@
-#ifndef __MONTY_H__
-#define __MONTY_H__
+#ifndef MONTY_H
+#define MONTY_H
 
 #include <stdio.h>
 #include <string.h>
@@ -22,7 +22,7 @@
  * @line_buf: points to the next element of the stack (or queue)
  *
  * Description: doubly linked list node structure
- * for stack, queues, LIFO, FIFO Holberton project
+ * for stack, queues, LIFO, FIFO
  */
 typedef struct globales_s
 {

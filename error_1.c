@@ -1,6 +1,5 @@
 #include "monty.h"
 
-
 /**
  * stderr_usage - usage error.
  * Return: EXIT_FAILURE

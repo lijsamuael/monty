@@ -4,6 +4,7 @@
  * div_m - divs 2dn top node by the top element of the stack.
  * @stack: head of linkedlist
  * @line_number: line number of the instruction
+ * Return: none
  */
 void div_m(stack_t **stack, unsigned int line_number)
 {

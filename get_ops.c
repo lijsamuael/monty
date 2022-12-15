@@ -5,7 +5,7 @@
  * @token: type pointer extern var char
  * @stack: type pointer node of data struct
  * @line_number: line of instructions
- * Return: Retunr the funtion
+ * Return: Return the funtion
  */
 int get_builtin(char *token, stack_t **stack, unsigned int line_number)
 {

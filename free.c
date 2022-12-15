@@ -1,6 +1,5 @@
 #include "monty.h"
 
-
 /**
  * free_dlistint - free a dlistint_t list.
  * @stack: pointer to the first element of the list

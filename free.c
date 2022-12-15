@@ -3,7 +3,7 @@
 /**
  * free_dlistint - free a dlistint_t list.
  * @stack: pointer to the first element of the list
- * Return: no return
+ * Return: none
  */
 void free_dlistint(stack_t *stack)
 {

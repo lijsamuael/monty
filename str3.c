@@ -2,7 +2,7 @@
 
 /**
  * get_int - get char pointer to new str with int
- * @num: number to convert to string
+ * @num: number
  * Return: char pointer converted as null if fails and malloc.
  */
 char *get_int(int num)

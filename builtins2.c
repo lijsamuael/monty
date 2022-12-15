@@ -88,7 +88,6 @@ void add(stack_t **stack, unsigned int line_number)
 		temp = NULL;
 		return;
 	}
-
 }
 /**
  * sub - subtracts the top e of stack from the 2nd top element of the stack.

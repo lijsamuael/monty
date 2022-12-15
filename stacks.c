@@ -15,7 +15,6 @@ int create_node_stack(stack_t **stack)
 	p->n = STACK;
 	p->prev = NULL;
 	p->next = NULL;
-
 	*stack = p;
 
 	return (EXIT_SUCCESS);
